@@ -7,3 +7,4 @@ test('welcome', async () => {
     expect(res.type).toBe('application/json')
     expect(res.body.message).toBe(`Welcome to the Sauti Studio Application!`)
 })
+// this is just a comment 
